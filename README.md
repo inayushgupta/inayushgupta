@@ -14,4 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/3c4e0e84-880f-43af-9072-06544353609e/thumbnail" >
+</p>
+
 [![My Skills](https://skillicons.dev/icons?i=aws,azure,gcp,kubernetes,docker,jenkins,git,github,go,py,linux,redhat,ubuntu,bash,arch,vim)](https://skillicons.dev)
