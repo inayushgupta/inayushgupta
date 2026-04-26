@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-[![My Skills](https://skillicons.dev/icons?i=aws,azure,gcp,kubernetes,docker,jenkins,git,github,go,py,linux,redhat,ubuntu,bash,arch,vim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,gcp,kubernetes,docker,jenkins,git,github,go,py,linux,redhat,ubuntu,bash,vim)](https://skillicons.dev)
 
 ### BOOT.dev Profile
 <p align="left">
